@@ -2,6 +2,9 @@
   "name": "ThomasAndFriends-api",
   "scripts": {
     "start": "node serve.js"
-    // a meaningless comment
+  },
+  "dependencies": {
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7"
   }
 }
