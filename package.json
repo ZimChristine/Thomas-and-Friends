@@ -1,0 +1,6 @@
+{
+  "name": "ThomasAndFriends-api",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
